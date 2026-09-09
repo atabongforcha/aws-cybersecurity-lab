@@ -3,3 +3,4 @@ Hands-on AWS cloud security exercises covering IAM, EC2, Systems Manager, monito
 ## Completed Labs
 
 1. [Secure EC2 Administration with IAM and Session Manager](labs/01-secure-ec2-session-manager/)
+2. [AWS CloudTrail and CloudWatch Security Alerting](labs/02-cloudtrail-cloudwatch-security-alerting)
